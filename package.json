@@ -1,0 +1,17 @@
+{
+  "name": "indonesiastatefull",
+  "version": "1.0.2",
+  "description": "Indonesia Province, Area, City, and state",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Indonesa",
+    "State",
+    "Kecamatan",
+    "Kelurahan"
+  ],
+  "author": "Dio Adhita Saputra, Steven Lim",
+  "license": "ISC"
+}
